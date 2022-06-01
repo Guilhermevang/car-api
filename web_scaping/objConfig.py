@@ -1,0 +1,17 @@
+obj_config = {
+  'brand': 'brand',
+  'model': 'model',
+  'generation': 'generation',
+  'modification (engine)': 'modification',
+  'start of production': 'start_of_production',
+  'end of production': 'end_of_production',
+  'powertrain architecture': 'powertrain_architecture',
+  'body type': 'type',
+  'seats': 'seats',
+  'doors': 'doors',
+  'fuel type': 'fuel_type',
+  'acceleration 0 - 100 km/h': 'acceleration_0_100_km_h',
+  'acceleration 0 - 60 mph': 'acceleration_0_60_mph',
+  'maximun speed': 'max_speed',
+  'system power': 'system_power',
+}
